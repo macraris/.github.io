@@ -10,6 +10,4 @@ youtubeid: "DfthfzUFKZ4"
 <header><h3> <a href="{{page.url}}">{{page.title}}</a></h3></header>
 <p>In un foglio di lavoro, &#232; facile usare l'opzione Trova/Sostituisci. In questa lezione vedremo come trovare o sostituire testi, numeri, commenti e formattazione delle celle.</p>
 
-<p>altri commenti</p>
-
 <p>Non perdete poi l&#39;occasione di esercitarvi su un reale Foglio di Lavoro &#40;collegamento al file excel di questa lezione &#232; all&#39;inizio della pagina, appena qui sopra&#41;!</p>
