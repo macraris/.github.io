@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fare i conti della spesa"
-date:   2016-02-29 14:36:23
+date:   2016-02-29 15:00:00
 permalink: /Conti-spesa.html
 youtubeid: "_mY8yD3N6DI"
 ---
