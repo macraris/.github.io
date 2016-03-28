@@ -1,7 +1,7 @@
 # Site settings
 title: Macraris Excel
 email: macraris@gmail.com
-description: #> # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   Spazio virtuale per imparare Excel 2013 dove puoi arricchire le tue conoscenze con esempi pratici
   acquisire gradualmente la conoscenza di Excel e goderti con allegria il tuo lavoro.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -11,6 +11,3 @@ github_username:  macraris
 
 # Build settings
 markdown: kramdown
-kramdown:
- input: GFM
- Hard_wrap: false

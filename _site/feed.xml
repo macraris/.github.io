@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macraris Excel</title>
-    <description>Spazio virtuale per imparare Excel 2013 dove puoi arricchire le tue conoscenze con esempi pratici acquisire gradualmente la conoscenza di Excel e goderti con allegria il tuo lavoro.</description>
+    <description>Spazio virtuale per imparare Excel 2013 dove puoi arricchire le tue conoscenze con esempi pratici acquisire gradualmente la conoscenza di Excel e goderti con allegria il tuo lavoro.
+</description>
     <link>http://locahost:4000/</link>
     <atom:link href="http://locahost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Mar 2016 01:42:47 +0200</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 01:42:47 +0200</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Mon, 28 Mar 2016 03:37:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 03:37:00 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Applicare Stili e colori</title>
-        <description>
-&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/Lf4wZ8-FI0g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/Lf4wZ8-FI0g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Stili-Colori-Prospetto-fatturato-incassi.html&quot;&gt;Applicare Stili e colori&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
 &lt;p&gt;In questa lezione impari l&#39;uso degli stili, la funzionalit&amp;agrave; e sostituisci, l&#39;inserimento delle formule di calcolo automatico.&lt;/p&gt;
@@ -28,13 +28,10 @@
     
       <item>
         <title>Navigare nel foglio di lavoro</title>
-        <description>
-&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/DfthfzUFKZ4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/DfthfzUFKZ4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Trova-Sostituisci.html&quot;&gt;Navigare nel foglio di lavoro&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
 &lt;p&gt;In un foglio di lavoro, &amp;#232; facile usare l&#39;opzione Trova/Sostituisci. In questa lezione vedremo come trovare o sostituire testi, numeri, commenti e formattazione delle celle.&lt;/p&gt;
-
-&lt;p&gt;altri commenti&lt;/p&gt;
 
 &lt;p&gt;Non perdete poi l&amp;#39;occasione di esercitarvi su un reale Foglio di Lavoro &amp;#40;collegamento al file excel di questa lezione &amp;#232; all&amp;#39;inizio della pagina, appena qui sopra&amp;#41;!&lt;/p&gt;
 </description>
@@ -47,15 +44,10 @@
     
       <item>
         <title>Fare i conti della spesa</title>
-        <description>
-&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/_mY8yD3N6DI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/_mY8yD3N6DI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Conti-spesa.html&quot;&gt;Fare i conti della spesa&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
 &lt;p&gt;In questa lezione vediamo come applicare la &lt;b&gt;funzione Somma&lt;/b&gt; ad un prospetto di spesa e inserire elementi di &lt;b&gt;formattazione&lt;/b&gt;&amp;#40;caratteri, numeri, bordi &amp;#41;. Alla fine di questa lezione saprete cos&amp;igrave; presentare un prospetto di spesa bello, ordinato e accattivante, personalizzandolo come pi&amp;ugrave; vi piace!!&lt;/p&gt;
-
-&lt;p&gt;altri commenti&lt;/p&gt;
-
-&lt;p&gt;ok&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 16:00:00 +0100</pubDate>
         <link>http://locahost:4000/Conti-spesa.html</link>
@@ -66,15 +58,14 @@
     
       <item>
         <title>Elenchi Personalizzati</title>
-        <description>
-&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/gpK0EdHh2K8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;//www.youtube.com/embed/gpK0EdHh2K8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Elenchi_Personalizzati.html&quot;&gt;Elenchi Personalizzati&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
-&lt;p&gt;In questa lezione impari a creare una serie di elenchi personalizzati e specifici per ogni vostro bisogno.&lt;/p&gt;
+&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Elenchi-Personalizzati.html&quot;&gt;Elenchi Personalizzati&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
+&lt;p&gt;In questa lezione impari a creare elenchi personalizzati per inserire velocemente serie di mesi e numeri.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 15:36:23 +0100</pubDate>
-        <link>http://locahost:4000/Elenchi_Personalizzati.html</link>
-        <guid isPermaLink="true">http://locahost:4000/Elenchi_Personalizzati.html</guid>
+        <link>http://locahost:4000/Elenchi-Personalizzati.html</link>
+        <guid isPermaLink="true">http://locahost:4000/Elenchi-Personalizzati.html</guid>
         
         
       </item>
