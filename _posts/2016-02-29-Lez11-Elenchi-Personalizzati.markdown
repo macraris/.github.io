@@ -7,3 +7,5 @@ youtubeid: "gpK0EdHh2K8"
 ---
 
 {% include youtubePlayer.html id= page.youtubeid %}
+<header><h3> <a href="{{page.url}}">{{page.title}}</a></h3></header>
+<p>In questa lezione impari a creare elenchi personalizzati per inserire velocemente serie di mesi e numeri.</p>
