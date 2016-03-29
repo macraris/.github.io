@@ -815,11 +815,11 @@
 	}
 
 		#banner .inner {
-			-moz-animation: reveal-banner 1s 0.25s ease-in-out;
-			-webkit-animation: reveal-banner 1s 0.25s ease-in-out;
-			-o-animation: reveal-banner 1s 0.25s ease-in-out;
-			-ms-animation: reveal-banner 1s 0.25s ease-in-out;
-			animation: reveal-banner 1s 0.25s ease-in-out;
+			-moz-animation: reveal-banner 0.15s 0.25s ease-in-out;
+			-webkit-animation: reveal-banner 0.15s 0.25s ease-in-out;
+			-o-animation: reveal-banner 0.15s 0.25s ease-in-out;
+			-ms-animation: reveal-banner 0.15s 0.25s ease-in-out;
+			animation: reveal-banner 0.15s 0.25s ease-in-out;
 			-moz-animation-fill-mode: forwards;
 			-webkit-animation-fill-mode: forwards;
 			-o-animation-fill-mode: forwards;
@@ -828,7 +828,7 @@
 			background: rgba(52, 27, 43, 0.5);
 			color: white;
 			display: inline-block;
-			opacity: 0;
+			opacity: 10;
 			padding: 3em;
 			text-align: center;
 		}
