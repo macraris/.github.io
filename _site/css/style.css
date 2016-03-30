@@ -803,8 +803,8 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #0e9c75;/*#645862;*/
-		background-image:url("images/light-bl.svg"), url("images/light-br.svg"), url("../images/banner.png");
+		background-color: #003d00;/*0e9c75;/*#645862;*/
+		background-image:url("images/light-bl.svg"), url("images/light-br.svg"), url("../images/banner.svg");
 		background-position: bottom left, bottom right, top center;
 		background-repeat: no-repeat, no-repeat, no-repeat;
 		background-size: 25em, 25em, cover;
