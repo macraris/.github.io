@@ -4,7 +4,7 @@ font-size:3em;
 }
 
 #cre{
-color:#e88cc2;
+color: #d90d11;/*#e88cc2;*/
 font-size:3em;
 }
 
@@ -16,4 +16,5 @@ font-size:3em;
 #gris{
     color:#888;
     font-size:0.5em;
+    text-transform:none;
 }
