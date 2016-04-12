@@ -76,78 +76,98 @@ layout: landing-page
 					
 				<!-- Two -->
 
-					
+				<!-- trhee rework aris -->
+							
 				<!-- Three -->
 					<section class="wrapper style3 container special">
 					
 						<header class="major">
-							<h2><strong>Lezioni recenti</strong></h2>
+							<h2>lezioni <strong>recenti</strong></h2>
 						</header>
-					<div class='container'>
+						
 						<div class="row">
-							<div class="col-md-6 col-sm-10 col-xs-12">
 							
-								<section>
-					
-								{% for post in site.posts limit:1 %}
+							<div class="col-md-6">
+								<div class="well" style="background-color: #c9c8c8;">
+									<section>
+										
+									<header>
+										<h3>
+											{% for post in site.posts limit:1 %}
 													       
-								{{ post.excerpt}}
-							
-								 <h4><a href="{{ post.url }}" class="button">continua...</a></h4>						     
-								{% endfor %}
-							
-								</section>
-
-
-							</div>
-							<div class="col-md-6 col-sm-10 col-xs-12">
-							
-								<section>
-									{% for post in site.posts offset:1 limit:1 %}
-										{{post.excerpt }}
+											{{ post.title}}
+													     
+											{% endfor %}
+										</h3>
+										
 								
-									<h4><a href="{{ post.url }}" class="button">continua...</a></h4>						     
-									{% endfor %}	
-								</section>
-
+									</header>
+							
+										<p>
+											{% for post in site.posts limit:1 %}
+													       
+												{{ post.excerpt}} <br>
+												
+												<a href="{{post.url}}"><button type ="button" class="btn btn-info">Leggi tutto</button></a>     
+											{% endfor %} 
+										</p>
+									</section>
+								</div>
+								
+							</div>
+							
+					
+							<div class="col-md-6">
+								<div class="well" style="background-color: #c9c8c8;">
+									<section>
+										
+									<header>
+										<h3>
+											{% for post in site.posts offset:1 limit:1 %}
+													       
+											{{ post.title}}
+													     
+											{% endfor %}
+										</h3>
+										
+								
+									</header>
+							
+										<p>
+											{% for post in site.posts offset:1 limit:1 %}
+													       
+												{{ post.excerpt}} <br>
+												
+												<a href="{{post.url}}"><button type ="button" class="btn btn-info">Leggi tutto</button></a>     
+											{% endfor %} 
+										</p>
+									</section>
+								</div>
+								
 							</div>
 						</div>
-					</div>
-					<div class='container'>
+						
 						<div class="row">
-							</br>
-							<div class="col-md-6 col-sm-10 col-xs-12">
 							
-								<section>
-									{% for post in site.posts offset:2 limit:1 %}
-										{{post.excerpt }}
-								
-									<h4><a href="{{ post.url }}" class="button">continua...</a></h4>						     
-									{% endfor %}		
-								</section>
-
-							</div>
-							<div class="col-md-6  col-sm-10 col-xs-12">
 							
-								<section>
-										{% for post in site.posts offset:3 limit:1 %}
-										{{ post.excerpt }}
-								
-									<h4><a href="{{ post.url }}" class="button">continua...</a></h4>						     
-									{% endfor %}	
-									
-								</section>
 
-							</div>
 						</div>
-					</div>
+
+<!-- end here -->
 						<footer class="major">
 							<ul class="buttons">
-								<li><a href="https://www.youtube.com/channel/UCbGamSKCUMVbx5RQ58xH2Qg" alt="Ui Excel Youtube Channel" class="button">Accedi a tutte le lezioni</a></li>
+								<li><a href="#" class="button">Accedi a tutte le lezioni</a></li>
 							</ul>
 						</footer>
 					
 					</section>
+					
+					
+		
+
+		<!-- CTA -->		
+					
+					
 					
 			</article>
 

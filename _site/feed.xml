@@ -6,16 +6,24 @@
 </description>
     <link>http://www.macraris.com/</link>
     <atom:link href="http://www.macraris.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Apr 2016 22:47:51 +0200</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2016 22:47:51 +0200</lastBuildDate>
+    <pubDate>Wed, 13 Apr 2016 00:51:31 +0200</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2016 00:51:31 +0200</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
         <title>Creare e personalizzare stili</title>
-        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;https://www.youtube.com/embed/Zasf3BXd9tI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>
+&lt;div class=&quot;js-video [vimeo, widescreen]&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/Zasf3BXd9tI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/creare-stili.html&quot;&gt;Creare e personalizzare stili&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;!--header&gt;&lt;h3&gt; &lt;a href=&quot;/creare-stili.html&quot;&gt;Creare e personalizzare stili&lt;/a&gt;&lt;/h3&gt;&lt;/header--&gt;&lt;/p&gt;
+
 &lt;p&gt;Dai personalit&amp;agrave; al tuo stile e applica velocemente la formattazione al tuo capolavoro.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
 </description>
         <pubDate>Mon, 28 Mar 2016 16:36:23 +0200</pubDate>
         <link>http://www.macraris.com/creare-stili.html</link>
@@ -26,11 +34,15 @@
     
       <item>
         <title>Applicare Stili e colori</title>
-        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;https://www.youtube.com/embed/Lf4wZ8-FI0g?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Stili-Colori-Prospetto-fatturato-incassi.html&quot;&gt;Applicare Stili e colori&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
+        <description>
+&lt;div class=&quot;js-video [vimeo, widescreen]&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/Lf4wZ8-FI0g?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!--header&gt;&lt;h3&gt; &lt;a href=&quot;/Stili-Colori-Prospetto-fatturato-incassi.html&quot;&gt;Applicare Stili e colori&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;In questa lezione impari l&#39;uso degli stili, la funzionalit&amp;agrave; e sostituisci, l&#39;inserimento delle formule di calcolo automatico.&lt;/p&gt;
 
+&lt;!--more--&gt;
 &lt;p&gt;Non perdete poi l&amp;#39;occasione di esercitarvi su un reale Foglio di Lavoro &amp;#40;collegamento al file excel di questa lezione &amp;#232; all&amp;#39;inizio della pagina, appena qui sopra&amp;#41;!&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Mar 2016 15:36:23 +0100</pubDate>
@@ -42,11 +54,15 @@
     
       <item>
         <title>Navigare nel foglio di lavoro</title>
-        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;https://www.youtube.com/embed/DfthfzUFKZ4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <description>
+&lt;div class=&quot;js-video [vimeo, widescreen]&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/DfthfzUFKZ4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!--header&gt;&lt;h3&gt; &lt;a href=&quot;/Trova-Sostituisci.html&quot;&gt;Navigare nel foglio di lavoro&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Trova-Sostituisci.html&quot;&gt;Navigare nel foglio di lavoro&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
 &lt;p&gt;In un foglio di lavoro, &amp;#232; facile usare l&#39;opzione Trova/Sostituisci. In questa lezione vedremo come trovare o sostituire testi, numeri, commenti e formattazione delle celle.&lt;/p&gt;
-
+&lt;!--more--&gt;
 &lt;p&gt;Non perdete poi l&amp;#39;occasione di esercitarvi su un reale Foglio di Lavoro &amp;#40;collegamento al file excel di questa lezione &amp;#232; all&amp;#39;inizio della pagina, appena qui sopra&amp;#41;!&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2016 15:36:23 +0100</pubDate>
@@ -58,10 +74,14 @@
     
       <item>
         <title>Fare i conti della spesa</title>
-        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;https://www.youtube.com/embed/_mY8yD3N6DI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Conti-spesa.html&quot;&gt;Fare i conti della spesa&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
+        <description>
+&lt;div class=&quot;js-video [vimeo, widescreen]&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/_mY8yD3N6DI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!--header&gt;&lt;h3&gt; &lt;a href=&quot;/Conti-spesa.html&quot;&gt;Fare i conti della spesa&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;In questa lezione vediamo come applicare la &lt;b&gt;funzione Somma&lt;/b&gt; ad un prospetto di spesa e inserire elementi di &lt;b&gt;formattazione&lt;/b&gt;&amp;#40;caratteri, numeri, bordi &amp;#41;. Alla fine di questa lezione saprete cos&amp;igrave; presentare un prospetto di spesa bello, ordinato e accattivante, personalizzandolo come pi&amp;ugrave; vi piace!!&lt;/p&gt;
+&lt;!--more--&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 16:00:00 +0100</pubDate>
         <link>http://www.macraris.com/Conti-spesa.html</link>
@@ -72,10 +92,15 @@
     
       <item>
         <title>Elenchi Personalizzati</title>
-        <description>&lt;iframe width=&quot;457&quot; height=&quot;257&quot; src=&quot;https://www.youtube.com/embed/gpK0EdHh2K8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;header&gt;&lt;h3&gt; &lt;a href=&quot;/Elenchi-Personalizzati.html&quot;&gt;Elenchi Personalizzati&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt;
+        <description>
+&lt;div class=&quot;js-video [vimeo, widescreen]&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/gpK0EdHh2K8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!--header&gt;&lt;h3&gt; &lt;a href=&quot;/Elenchi-Personalizzati.html&quot;&gt;Elenchi Personalizzati&lt;/a&gt;&lt;/h3&gt;&lt;/header&gt; --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;In questa lezione impari a creare elenchi personalizzati per inserire velocemente serie di mesi e numeri.&lt;/p&gt;
+
+&lt;!--more--&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 15:36:23 +0100</pubDate>
         <link>http://www.macraris.com/Elenchi-Personalizzati.html</link>
