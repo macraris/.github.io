@@ -139,9 +139,7 @@ a {
   margin-right: 30px;
 }
 
-a:link{
-    text-decoration: none;
-    
+
 }
 a:visited{
     text-decoration: none;
@@ -158,12 +156,22 @@ a.button.fit.scrolly{
     color: white;
 }
 .btn-info{
-     background-color: #9CDF37;
-     border-color: #9CDF37;
+     background-color:#D3D3D3;
+     border-color: black;
+     color:#333333;
 }
 .btn-info:hover{
-background-color: white;
-color:#003D00;
-
+background-color: #bccace;
+color:#333333;
+border-color:black;
     
 }
+.button{
+       line-height: 2.75em;
+}
+
+.button:hover {
+			background: rgba(188, 202, 206, 0.15);
+			border-color: inherit;
+                        color:#333333;
+		}
