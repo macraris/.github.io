@@ -175,3 +175,10 @@ border-color:black;
 			border-color: inherit;
                         color:#333333;
 		}
+
+.post-title{
+            font-size: 16px;
+            text-transform: uppercase;
+            font-weight: 300;
+            
+}
