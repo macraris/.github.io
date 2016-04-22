@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 <br>
 <!--header><h3> <a href="{{page.url}}">{{page.title}}</a></h3></header-->
 
-
+<section class="tk-freight-neo-pro">
 <p>Capire i riferimenti nelle formule &egrave; importante per un uso efficace ed efficiente delle stesse...</p>
 
 <!--more-->
@@ -28,5 +28,6 @@ excerpt_separator: <!--more-->
 </ul>
 
 </p>
+</section>
 
 
