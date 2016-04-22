@@ -21,10 +21,10 @@ excerpt_separator: <!--more-->
 <p> I Riferimenti permettono di eseguire velocemente tante operazioni in Excel.</p>
 <p>Nel copiare una formula i riferimenti nella cella di destinazione si modificano sulla base di una delle seguenti opzioni: </br>
 
-<ul>
-    <li>Riferimenti Relativi: &egrave; l&#39;impostazione predefinita; la posizione della cella di riferimento &egrave; relativa;</li>
-    <li>Riferimenti Assoluti: la posizione della cella di riferimento &egrave; sempre specifica;</li>
-    <li>Riferimenti Misti: &egrave; la combinazione delle 2 opzioni precedenti. </li>
+<ul class="list-group fa-ul">
+    <li class="list-group-item active"><i class="fa fa-cog fa-spin"></i> Riferimenti Relativi: &egrave; l&#39;impostazione predefinita; la posizione della cella di riferimento &egrave; relativa;</li>
+    <li class="list-group-item"><i class="fa fa-refresh fa-spin"></i> Riferimenti Assoluti: la posizione della cella di riferimento &egrave; sempre specifica;</li>
+    <li class="list-group-item"><i class="fa fa-spinner fa-pulse"></i> Riferimenti Misti: &egrave; la combinazione delle 2 opzioni precedenti. </li>
 </ul>
 
 </p>

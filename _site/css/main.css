@@ -191,7 +191,8 @@ border-color:black;
             font-weight: 300;
             
 }
-.chiara{
-        font-size: 16px;
-        font-weight:200;
+
+p{
+    font-family: "freight-neo-pro",sans-serif;
+    font-size: 16px;
 }
